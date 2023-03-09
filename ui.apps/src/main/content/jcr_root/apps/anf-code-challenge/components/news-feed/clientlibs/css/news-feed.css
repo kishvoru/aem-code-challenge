@@ -1,0 +1,38 @@
+.newsFeed-container{
+	justify-content: center; 
+	display: flex;
+}
+
+.newsFeed-contentContainer{
+	max-width: 1400px;
+}
+
+.newsFeed-title{
+	border-bottom: 5px #2a578e dotted;
+	color: #d37237;
+}
+
+.newsFeed-flex{
+	display:flex;
+	box-shadow: 10px 5px 5px #a8a7a7;
+	margin-bottom:50px
+}
+
+.marginL25{
+	margin-left:25px;
+}
+
+.newsFeed-heading{
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.newsFeed-subject{
+	font-size: 15px;
+	font-weight: 700;
+	color: #d37237;
+}
+
+.newsFeed-img{
+	max-width: 600px;
+}
