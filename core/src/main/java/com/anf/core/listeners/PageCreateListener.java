@@ -34,7 +34,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
+ * @author kishore
  * Event Listener that listens to page creation & updates custom property.
+ * 
  */
 @Component(service = EventHandler.class,
            immediate = true,
